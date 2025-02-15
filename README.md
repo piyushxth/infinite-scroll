@@ -1,6 +1,5 @@
 # 🚀 Horizontal Infinite Auto-Scrolling Page  
 
-![Infinite Scrolling Demo](https://github.com/piyushxth/infinite-scroll/blob/main/InfiniteScroll.png?raw=true)
 
 
 An **infinite horizontal auto-scrolling page** with smooth animations and seamless looping. Perfect for **banners, carousels, or creative UI designs**!  
@@ -18,7 +17,13 @@ An **infinite horizontal auto-scrolling page** with smooth animations and seamle
 ## 🛠️ Installation  
 
 Clone the repository:  
+Install XAMPP 
+create iconic database in the mysql
+then run it on localhost:3000 or whatever you are tring to run it on 
+then run the createTable.php script to create tables in the database 
+To run the script go to localhost:3000/createTable.php
+then you are all ready !!!!!!!
 
+![Infinite Scrolling Demo](https://github.com/piyushxth/infinite-scroll/blob/main/InfiniteScroll.png?raw=true)
 ```sh
-git clone https://github.com/your-username/infinite-horizontal-scroll.git
-cd infinite-horizontal-scroll
+
