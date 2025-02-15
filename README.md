@@ -1,6 +1,7 @@
 # 🚀 Horizontal Infinite Auto-Scrolling Page  
 
-![Infinite Scrolling Preview]([https://your-demo-image-link.com](https://github.com/piyushxth/infinite-scroll/blob/main/InfiniteScroll.png?raw=true))  
+![Infinite Scrolling Demo](https://github.com/piyushxth/infinite-scroll/blob/main/InfiniteScroll.png?raw=true)
+
 
 An **infinite horizontal auto-scrolling page** with smooth animations and seamless looping. Perfect for **banners, carousels, or creative UI designs**!  
 
