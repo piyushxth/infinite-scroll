@@ -16,13 +16,14 @@ An **infinite horizontal auto-scrolling page** with smooth animations and seamle
 
 ## 🛠️ Installation  
 
-Clone the repository:  
-Install XAMPP 
-create iconic database in the mysql
-then run it on localhost:3000 or whatever you are tring to run it on 
-then run the createTable.php script to create tables in the database 
-To run the script go to localhost:3000/createTable.php
-then you are all ready !!!!!!!
+Clone the repository.  
+Install XAMPP.  
+Create the `iconic` database in MySQL.  
+Then run it on `localhost:3000` or whatever port you are trying to run it on.  
+Run the `createTable.php` script to create tables in the database.  
+To run the script, go to `localhost:3000/createTable.php`.  
+Then you are all ready! 🚀  
+
 
 ![Infinite Scrolling Demo](https://github.com/piyushxth/infinite-scroll/blob/main/InfiniteScroll.png?raw=true)
 ```sh
